@@ -5,8 +5,11 @@ I'm an avid developer and technology enthusiast. I love building things and lear
 :zap: JavaScript
 :fire: Python
 :hammer: Git
+
 :computer: Projects
 Here are some of my recent projects:
+
+:rocket: Friend-Online-Notifier-for-Roblox-with-Twilio.
 
 
 :book: Resources
