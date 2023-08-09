@@ -4,7 +4,7 @@
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on  Friend-Online-Notifier-for-Roblox-with-Twilio 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning swift 
 - 😄 Pronouns: he/him 
 
 
